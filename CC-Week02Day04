@@ -1,0 +1,4 @@
+a. Write a program to take in 2 numbers as input and print their +, -, /, //, % and * 
+
+b. Write a program that takes in 2 numbers and returns true if they are divisible by each other. False otherwise.
+[hint: use the bool() function]
