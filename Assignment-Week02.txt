@@ -1,0 +1,6 @@
+What are the default data types in python? What is typecasting in python? Give two examples each of typecasting between each of the following types:
+
+a. string to boolean
+b. integer to boolean
+c. boolean to string
+d. string to integer
