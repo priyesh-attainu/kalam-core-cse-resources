@@ -1,0 +1,3 @@
+a. Take a number as input from the user, print its multiple of 2, 4, 6, 8, 10 if it is an odd number, if it is an even number then print its multiple of 1, 3, 5, 7 and 9.
+
+b. Take a name, age and whether user has diabetes as user input and tell them from when can they start taking vaccines for COVID-19. [Hint: you can refer to the news for the timelines for each age group]
