@@ -1,0 +1,26 @@
+a. Given a number as input from the user, print all its odd multiples from 1 to 21 if the number is odd and all even multiples from 2 to 20 if the number is even. 
+Use both for loop and while loop.
+
+b. Given a number as input from the user, print a triangle like the following.
+
+if input is 3:
+
+*
+**
+***
+**
+*
+
+if input is 5:
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+give codes containing for loop and while loop
