@@ -1,0 +1,11 @@
+a. Print the following pattern after taking in the line number as input from the user:
+
+for example: if input line number is 5, then print the following pattern.
+
+  *
+ ***
+*****
+ ***
+  *
+
+b. perform the same task as given above but using one for loop only instead of 2.
