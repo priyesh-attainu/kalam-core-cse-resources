@@ -5,3 +5,5 @@ a. Define a function arithmetic_operation() which takes 2 numbers and operation 
 * opname: "Divide" - Then we divide the 2 numbers
 
 Print the result of the operation and also return it.
+
+b. Redefine the same function with default values for numbers as 3 and 5 and opname as "Add". Use the same function to calculate 5+3-12+23
