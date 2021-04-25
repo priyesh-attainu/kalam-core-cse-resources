@@ -1,0 +1,77 @@
+Assignment Week 3
+
+[All questions need to be solved using both for and while loop]
+
+1. Write code for the following sequence by taking line number as user input:
+
+n = 5
+
+**
+ **
+  **
+ **
+**
+
+n=3
+
+**
+ **
+**
+
+2.  Write code for the following sequence by taking line number as user input.
+
+n = 3
+
+  1
+ 121
+12321
+
+n = 4
+
+   1
+  121
+ 12321
+1234321
+
+
+3.  Write code for the following sequence by taking line number as user input
+
+n = 3
+ 1
+121
+ 1
+
+n = 5
+  1
+ 121
+12321
+ 121
+  1
+  
+4. Write code for the following sequence by taking line number as user input, [using a single loop only]
+
+n = 5
+ 
+1
+21
+321
+21
+1
+
+5. Write a function that takes line number as input (with default value of 5) and prints the following pattern.
+
+n=3
+.....
+.. ..
+.   .
+.. ..
+.....
+
+n = 5
+.......
+... ...
+..   ..
+.     .
+..   ..
+... ...
+.......
